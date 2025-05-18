@@ -1,8 +1,8 @@
-# Heatmax WhatsApp App (Final Version)
+# Heatmax WhatsApp App (Final Fixed Version)
 
-Fully working demo for Vercel deployment.
+This version builds successfully on Vercel.
 
-## How to Use
+## Steps:
 1. Upload to GitHub
 2. Connect to Vercel
-3. Deploy
+3. Click Deploy
