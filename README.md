@@ -1,8 +1,8 @@
-# Heatmax WhatsApp App v2
+# Heatmax WhatsApp App (Final Version)
 
-A polished frontend UI for WhatsApp-based sales.
+Fully working demo for Vercel deployment.
 
-## Usage:
+## How to Use
 1. Upload to GitHub
-2. Deploy to Vercel
-3. Use as frontend base
+2. Connect to Vercel
+3. Deploy
